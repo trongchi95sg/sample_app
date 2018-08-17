@@ -110,3 +110,5 @@ gem "algoliasearch"
 
 # zipcode to city Japan
 gem "zip_code_jp"
+
+gem 'listen', '~> 3.0' # NOTE: for TCP functionality, use '~> 2.10' for now
